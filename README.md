@@ -8,11 +8,9 @@ Sou certificada em SQL, Excel e Power BI. Atualmente, estou me aprofundando em P
 
 📜 Certificados:
 <p align="left">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="SQL" />
-  
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black" alt="Power BI" />
-  
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white" alt="Excel" />
+  <img src="imagens/sql.png" alt="SQL" width="60"/>
+  <img src="imagens/powerbi.png" alt="Power BI" width="60"/>
+  <img src="imagens/excel.png" alt="Excel" width="60"/>
 </p>
 
 .
