@@ -6,7 +6,7 @@ Sou certificada em SQL, Excel e Power BI. Atualmente, estou me aprofundando em P
 
 .
 
-📜 Certificada em:
+📜 Certificados:
 <p align="left">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="SQL" />
   
