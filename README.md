@@ -25,6 +25,6 @@ MBA em Análise de Dados - Faculdade Anhanguera
 
 🤓 Idiomas:
 
-Espanhol - Intermediário
+Espanhol - Básico/Intermediário
 
-Inglês - Intermediário
+Inglês - Básico
