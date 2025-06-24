@@ -4,7 +4,7 @@
 
 .
 
-📜 **Conhecimento em:**
+📜 **Principais Ferramentas:**
 <p align="left">
   <img src="imagens/sql.png" alt="SQL" width="40"/>
   <img src="imagens/powerbi.png" alt="Power BI" width="40"/>
