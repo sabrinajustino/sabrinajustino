@@ -2,7 +2,8 @@
 
 ✨ Depois de mais de 17 anos atuando com Recursos Humanos e Departamento Pessoal, com foco em folha de pagamento, eSocial, encargos, auditorias e outros processos, decidi dar um novo passo na minha carreira e mergulhar no universo da Análise de Dados! 
 
----
+<br>
+<br>
 
 📜 **Principais Ferramentas:**
 <p align="left">
@@ -11,7 +12,8 @@
   <img src="imagens/excel.png" alt="Excel" width="40"/>
 </p>
 
----
+<br>
+<br>
 
 🛠️ **Em estudo:**
 
@@ -19,7 +21,8 @@ Phyton para Análise de Dados - Comunidade Bruce Fonseca
 
 MBA em Análise de Dados - Faculdade Anhanguera
 
----
+<br>
+<br>
 
 🤓 **Idiomas:**
 
