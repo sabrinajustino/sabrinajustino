@@ -4,7 +4,7 @@
 
 .
 
-📜 Conhecimento em:
+📜 **Conhecimento em:**
 <p align="left">
   <img src="imagens/sql.png" alt="SQL" width="60"/>
   <img src="imagens/powerbi.png" alt="Power BI" width="60"/>
@@ -13,7 +13,7 @@
 
 .
 
-🛠️ Em estudo:
+🛠️ **Em estudo:**
 
 Phyton para Análise de Dados - Comunidade Bruce Fonseca
 
@@ -21,7 +21,7 @@ MBA em Análise de Dados - Faculdade Anhanguera
 
 .
 
-🤓 Idiomas:
+🤓 **Idiomas:**
 
 Espanhol - Básico/Intermediário
 
