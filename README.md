@@ -6,9 +6,9 @@
 
 📜 **Conhecimento em:**
 <p align="left">
-  <img src="imagens/sql.png" alt="SQL" width="60"/>
-  <img src="imagens/powerbi.png" alt="Power BI" width="60"/>
-  <img src="imagens/excel.png" alt="Excel" width="60"/>
+  <img src="imagens/sql.png" alt="SQL" width="40"/>
+  <img src="imagens/powerbi.png" alt="Power BI" width="40"/>
+  <img src="imagens/excel.png" alt="Excel" width="40"/>
 </p>
 
 .
